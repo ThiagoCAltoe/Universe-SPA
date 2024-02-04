@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma pagina sobre universos com SPA
 
-- [Acesse o projeto finalizado, online](https://thiagocaltoe.github.io/Universe-SPA)
+- [Acesse o projeto finalizado, online](https://universe-spa-lovat.vercel.app)
 
 ## :memo: Licença
 
